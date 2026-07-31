@@ -103,12 +103,10 @@ To become an AI Engineer who builds intelligent solutions with real-world impact
 
 ### 🚗 Parking Management System
 
-- React.js + Spring Boot + MySQL
-- JWT Authentication
-- Slot Booking
-- Billing System
+React • Spring Boot • MySQL
 
----
+🔗 Repository:
+https://github.com/shrutijadhav2809/Parking-Management-System
 
 ### 💄 Personalized Skincare Recommendation System
 
