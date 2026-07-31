@@ -123,7 +123,7 @@ A full-stack web application that streamlines parking slot management by allowin
 - Database: MySQL
 - Authentication: JWT
 
-🔗 **Repository:** *(Add your repository link here)*
+🔗 **Repository:** *(https://github.com/shrutijadhav2809/Parking-Management-System-using-Spring-Boot)*
 
 ---
 
@@ -149,7 +149,7 @@ An AI-powered recommendation system that analyzes user skin concerns and suggest
 - Scikit-Learn
 - Matplotlib
 
-🔗 **Repository:** *(Add repository link)*
+🔗 **Repository:** *(https://github.com/shrutijadhav2809/Personalized-Skincare-and-Cosmetics-Recommendation-System)*
 
 ---
 
@@ -174,8 +174,6 @@ A business intelligence dashboard developed to analyze datasets and present mean
 - SQL
 - Python
 - Excel
-
-🔗 **Repository:** *(Add repository link)*
 
 ---
 
@@ -245,7 +243,7 @@ An AI-based healthcare application that detects specific skin diseases from uplo
 - Deep Learning
 - Computer Vision
 - Large Language Models (LLMs)
-- MLOps
+- Prompt Engineering 
 
 ---
 
@@ -254,7 +252,6 @@ An AI-based healthcare application that detects specific skin diseases from uplo
 - ✅ Publish a Research Paper
 - ✅ Build an AI Skin Disease Detection System
 - ✅ Contribute to Open Source
-- ✅ Participate in Kaggle Competitions
 - ✅ Secure an AI Internship
 
 ---
