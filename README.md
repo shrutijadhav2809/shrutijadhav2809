@@ -1,30 +1,43 @@
 <div align="center">
 
-Hi 👋, I'm Shruti Jadhav
+# Hi 👋, I'm Shruti Jadhav
 
-AI & Machine Learning Enthusiast • Data Analytics • Python Developer
+### 🎓 B.Tech Information Technology Student
+
+### 🤖 AI & Machine Learning Enthusiast • 📊 Data Analytics • 💻 Python Developer
 
 <p>
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Enthusiast;Data+Analytics+Explorer;Python+Developer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Enthusiast;Data+Analytics+Explorer;Python+Developer;Always+Learning+New+Technologies" />
 </p>
 
 <p>
-<a href="https://www.linkedin.com/in/shruti-jadhav-1365322ba"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:shrutijadhav.0928@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/shrutijadhav2809"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/shruti-jadhav-1365322ba">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:shrutijadhav.0928@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/shrutijadhav2809">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
 </div>
 
-## 👩‍💻 About Me
+---
+
+# 👩‍💻 About Me
 
 🎓 B.Tech Information Technology Student at **Pimpri Chinchwad College of Engineering (PCCOE), Pune**
 
 🤖 Passionate about **Artificial Intelligence, Machine Learning, Data Analytics, and Software Development**
 
-💡 I enjoy solving real-world problems using **AI, data-driven insights, and scalable applications.**
+💡 I enjoy building AI-powered solutions for real-world problems.
 
 🌱 **Currently Learning**
+
 - Deep Learning
 - Computer Vision
 - Generative AI
@@ -36,131 +49,157 @@ To become an AI Engineer who builds intelligent solutions with real-world impact
 
 ---
 
-## 💼 Experience
+# 💼 Experience
 
-- 📊 Data Analyst Intern – Infyntrek Systems
-- 🐍 Python Programming Intern – CodSoft
-- 🤖 Data Science Intern – Uptricks Services
+📊 **Data Analyst Intern** — Infyntrek Systems
+
+🐍 **Python Programming Intern** — CodSoft
+
+🤖 **Data Science Intern** — Uptricks Services
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-### 💻 Programming Languages
+## 💻 Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### 🤖 AI / Machine Learning
+## 🤖 AI & Machine Learning
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
-### 📊 Data Analytics
+## 📊 Data Analytics
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-### 🌐 Web Development
+## 🌐 Web Development
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
 
-### 🗄 Database
+## 🗄 Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### ⚙️ Tools
+## ⚙️ Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-🚀 Featured Projects
+---
 
-🚗 Parking Management System
+# 🚀 Featured Projects
 
-React.js + Spring Boot + MySQL
+### 🚗 Parking Management System
 
-JWT Authentication
+- React.js + Spring Boot + MySQL
+- JWT Authentication
+- Slot Booking
+- Billing System
 
-Slot Booking & Billing
+---
 
-💄 Personalized Skincare Recommendation System
+### 💄 Personalized Skincare Recommendation System
 
-Machine Learning
+- Machine Learning
+- Python
+- Pandas
+- Scikit-Learn
 
-Python, Pandas, Scikit-Learn
+---
 
-📊 Data Analytics Dashboard
+### 📊 Data Analytics Dashboard
 
-Power BI, Tableau, SQL, Python
+- Power BI
+- Tableau
+- SQL
+- Python
 
-🤖 AI Skin Disease Detection (In Progress)
+---
 
-Deep Learning
+### 🤖 AI Skin Disease Detection *(Currently Building)*
 
-Computer Vision
+- Deep Learning
+- Computer Vision
 
-📜 Certifications
+---
 
-Deloitte Data Analytics Job Simulation
+# 📜 Certifications
 
-Cognizant Virtual Experience
+- 🏅 Deloitte Data Analytics Job Simulation
+- 🏅 Cognizant Virtual Experience Program
+- 🏅 Python Programming Certification
 
-Python Programming Certification
+---
 
-📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shrutijadhav2809&show_icons=true&theme=tokyonight"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutijadhav2809&layout=compact&theme=tokyonight"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=shrutijadhav2809&show_icons=true&theme=github_dark"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutijadhav2809&layout=compact&theme=github_dark"/>
+
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=shrutijadhav2809&theme=tokyonight"/>
+
+<img src="https://streak-stats.demolab.com?user=shrutijadhav2809&theme=github-dark-blue"/>
+
 </p>
 
-🏆 GitHub Trophies
+---
+
+# 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shrutijadhav2809&theme=tokyonight&column=4"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=shrutijadhav2809&theme=algolia&column=4"/>
+
 </p>
 
-🌱 Currently Learning
+---
 
-Deep Learning
+# 🌱 Currently Learning
 
-Computer Vision
+- Deep Learning
+- Computer Vision
+- Large Language Models (LLMs)
+- MLOps
 
-Large Language Models (LLMs)
+---
 
-MLOps
+# 🎯 2026 Goals
 
-🎯 2026 Goals
+- ✅ Publish a Research Paper
+- ✅ Build an AI Skin Disease Detection System
+- ✅ Contribute to Open Source
+- ✅ Participate in Kaggle Competitions
+- ✅ Secure an AI Internship
 
-✅ Publish a Research Paper
+---
 
-✅ Build an AI Skin Disease Detection System
+# 💬 Quote
 
-✅ Contribute to Open Source
+> **"Turning ideas into intelligent solutions through AI and data."**
 
-✅ Participate in Kaggle Competitions
-
-✅ Secure an AI Internship
-
-💬 Quote
-
-"Turning ideas into intelligent solutions through AI and data."
+---
 
 <div align="center">
 
-Thanks for visiting my profile! ⭐
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://komarev.com/ghpvc/?username=shrutijadhav2809&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </div>
