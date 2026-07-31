@@ -143,22 +143,17 @@ To become an AI Engineer who builds intelligent solutions with real-world impact
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shrutijadhav2809&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shrutijadhav2809&show_icons=true&theme=github_dark"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutijadhav2809&layout=compact&theme=github_dark"/>
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutijadhav2809&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=shrutijadhav2809&theme=github-dark-blue"/>
-
+<img src="https://streak-stats.demolab.com?user=shrutijadhav2809&theme=tokyonight&hide_border=true"/>
 </p>
-
 ---
 
 # 🏆 GitHub Trophies
