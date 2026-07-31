@@ -81,3 +81,86 @@ To become an AI Engineer who builds intelligent solutions with real-world impact
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+🚀 Featured Projects
+
+🚗 Parking Management System
+
+React.js + Spring Boot + MySQL
+
+JWT Authentication
+
+Slot Booking & Billing
+
+💄 Personalized Skincare Recommendation System
+
+Machine Learning
+
+Python, Pandas, Scikit-Learn
+
+📊 Data Analytics Dashboard
+
+Power BI, Tableau, SQL, Python
+
+🤖 AI Skin Disease Detection (In Progress)
+
+Deep Learning
+
+Computer Vision
+
+📜 Certifications
+
+Deloitte Data Analytics Job Simulation
+
+Cognizant Virtual Experience
+
+Python Programming Certification
+
+📊 GitHub Stats
+
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=shrutijadhav2809&show_icons=true&theme=tokyonight"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutijadhav2809&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=shrutijadhav2809&theme=tokyonight"/>
+</p>
+
+🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=shrutijadhav2809&theme=tokyonight&column=4"/>
+</p>
+
+🌱 Currently Learning
+
+Deep Learning
+
+Computer Vision
+
+Large Language Models (LLMs)
+
+MLOps
+
+🎯 2026 Goals
+
+✅ Publish a Research Paper
+
+✅ Build an AI Skin Disease Detection System
+
+✅ Contribute to Open Source
+
+✅ Participate in Kaggle Competitions
+
+✅ Secure an AI Internship
+
+💬 Quote
+
+"Turning ideas into intelligent solutions through AI and data."
+
+<div align="center">
+
+Thanks for visiting my profile! ⭐
+
+</div>
