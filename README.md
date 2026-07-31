@@ -191,8 +191,10 @@ https://github.com/shrutijadhav2809/Parking-Management-System
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=shrutijadhav2809&label=Profile%20Views&color=0e75b6&style=flat"/>
+⭐ Thanks for visiting my profile!
+
+If you like my work, feel free to connect with me on LinkedIn.
 
 </div>
