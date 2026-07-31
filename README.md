@@ -101,19 +101,118 @@ To become an AI Engineer who builds intelligent solutions with real-world impact
 
 # 🚀 Featured Projects
 
-### 🚗 Parking Management System
+## 🚗 Parking Management System
 
-React • Spring Boot • MySQL
+📌 **Overview**
 
-🔗 Repository:
-https://github.com/shrutijadhav2809/Parking-Management-System
+A full-stack web application that streamlines parking slot management by allowing users to book available parking spaces online while enabling administrators to monitor and manage the parking facility efficiently.
 
-### 💄 Personalized Skincare Recommendation System
+### ✨ Key Features
 
-- Machine Learning
+- 🔐 Secure JWT-based Authentication
+- 🚗 Real-time Parking Slot Booking
+- 💳 Automated Billing System
+- 👨‍💼 Admin Dashboard for Slot Management
+- 📊 Booking History & User Management
+- 📱 Responsive User Interface
+
+### 🛠 Tech Stack
+
+- Frontend: React.js
+- Backend: Spring Boot
+- Database: MySQL
+- Authentication: JWT
+
+🔗 **Repository:** *(Add your repository link here)*
+
+---
+
+## 💄 Personalized Skincare Recommendation System
+
+📌 **Overview**
+
+An AI-powered recommendation system that analyzes user skin concerns and suggests suitable skincare products using machine learning techniques.
+
+### ✨ Key Features
+
+- 🤖 Machine Learning-based Recommendations
+- 🧴 Personalized Product Suggestions
+- 📊 Data Preprocessing & Feature Engineering
+- 📈 Model Evaluation & Prediction
+- 💻 Interactive User Interface
+
+### 🛠 Tech Stack
+
 - Python
 - Pandas
+- NumPy
 - Scikit-Learn
+- Matplotlib
+
+🔗 **Repository:** *(Add repository link)*
+
+---
+
+## 📊 Data Analytics Dashboard
+
+📌 **Overview**
+
+A business intelligence dashboard developed to analyze datasets and present meaningful insights using interactive visualizations.
+
+### ✨ Key Features
+
+- 📈 Interactive Dashboards
+- 📊 Data Cleaning & Transformation
+- 📉 Trend & KPI Analysis
+- 📋 Dynamic Reports
+- 📌 Business Insights
+
+### 🛠 Tech Stack
+
+- Power BI
+- Tableau
+- SQL
+- Python
+- Excel
+
+🔗 **Repository:** *(Add repository link)*
+
+---
+
+## 🤖 AI Skin Disease Detection *(Final Year Project – In Progress)*
+
+📌 **Overview**
+
+An AI-based healthcare application that detects specific skin diseases from uploaded skin images using deep learning models. The system aims to assist users with early disease identification while providing confidence scores and disease-related information.
+
+### ✨ Planned Features
+
+- 📷 Upload Skin Images
+- 🤖 AI-based Disease Classification
+- 📊 Confidence Score Prediction
+- 📚 Disease Information & Precautions
+- 📝 Treatment Guidance Suggestions
+- 🌐 Simple Web Interface
+
+### 🛠 Proposed Tech Stack
+
+- Python
+- TensorFlow / PyTorch
+- OpenCV
+- Flask / Streamlit
+- HTML, CSS
+- Deep Learning
+
+### 📌 Research Focus
+
+- Early Skin Disease Detection
+- Medical Image Classification
+- Computer Vision
+- Explainable AI (Future Enhancement)
+
+🚧 **Project Status:** Under Development
+
+🔗 **Repository:** *(Will be added after implementation)*
 
 ---
 
@@ -138,29 +237,6 @@ https://github.com/shrutijadhav2809/Parking-Management-System
 - 🏅 Deloitte Data Analytics Job Simulation
 - 🏅 Cognizant Virtual Experience Program
 - 🏅 Python Programming Certification
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shrutijadhav2809&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutijadhav2809&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=shrutijadhav2809&theme=tokyonight&hide_border=true"/>
-</p>
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shrutijadhav2809&theme=algolia&column=4"/>
-
-</p>
 
 ---
 
