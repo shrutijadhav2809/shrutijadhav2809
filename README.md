@@ -6,7 +6,9 @@
 
 ### 🤖 AI & Machine Learning Enthusiast | 📊 Data Analytics | 💻 Python Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=4F8CC9&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;AI+%7C+Machine+Learning+%7C+Data+Analytics;Python+Developer;Always+Learning+Something+New+🚀" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=4F8CC9&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Enthusiast;Data+Analytics+Explorer;Python+Developer;Always+Learning+Something+New+%F0%9F%9A%80" />
+</p>
 
 </div>
 
