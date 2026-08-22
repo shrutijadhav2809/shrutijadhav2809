@@ -211,38 +211,43 @@ A business intelligence dashboard developed to analyze datasets and present mean
 
 ---
 
-## 🤖 AI Skin Disease Detection *(Final Year Project – In Progress)*
+## 🎭 Sarcasm-Aware Sentiment Analysis for YouTube Comments *(Final Year Project – In Progress)*
 
 📌 **Overview**
 
-An AI-based healthcare application that detects specific skin diseases from uploaded skin images using deep learning models. The system aims to assist users with early disease identification while providing confidence scores and disease-related information.
+An intelligent, explainable NLP system that detects sarcasm before performing sentiment analysis on YouTube comments. Traditional sentiment analysis models often misclassify sarcastic text since sarcastic statements usually express the opposite of their literal meaning — this project addresses that gap by combining sarcasm detection, sentiment classification, and Explainable AI (SHAP & LIME) to improve accuracy and prediction transparency. The project also compares Machine Learning and Deep Learning approaches to identify the best-performing methodology.
 
 ### ✨ Planned Features
 
-- 📷 Upload Skin Images
-- 🤖 AI-based Disease Classification
-- 📊 Confidence Score Prediction
-- 📚 Disease Information & Precautions
-- 📝 Treatment Guidance Suggestions
-- 🌐 Simple Web Interface
+- 🎭 Sarcasm Detection prior to Sentiment Classification
+- 😊 Sentiment Analysis (Positive / Negative / Neutral)
+- 🔍 Explainable AI Predictions using SHAP & LIME
+- 📺 YouTube URL Input via YouTube Data API
+- ⌨️ Manual Text Input Support
+- 📊 Interactive Dashboard with Visualizations
+- 📄 PDF/CSV Report Generation
+- 🔬 ML vs DL Model Comparison
 
 ### 🛠 Proposed Tech Stack
 
-- Python
-- TensorFlow / PyTorch
-- OpenCV
-- Flask / Streamlit
-- HTML, CSS
-- Deep Learning
+- Frontend: HTML, CSS, Bootstrap, JavaScript
+- Backend: Flask
+- Database: SQLite
+- Machine Learning: Scikit-learn (Logistic Regression, Naive Bayes, SVM, Random Forest)
+- Deep Learning: TensorFlow / PyTorch (LSTM, GRU, DistilBERT)
+- NLP: Hugging Face Transformers
+- Explainable AI: SHAP, LIME
+- API: YouTube Data API v3
+- Visualization: Chart.js
 
 ### 📌 Research Focus
 
-- Early Skin Disease Detection
-- Medical Image Classification
-- Computer Vision
-- Explainable AI (Future Enhancement)
+- Sarcasm-Aware Sentiment Analysis
+- Explainable Artificial Intelligence (XAI)
+- Machine Learning vs Deep Learning Model Comparison
+- Natural Language Processing
 
-🚧 **Project Status:** Under Development
+🚧 **Project Status:** Under Development (AY 2026-27) — B.Tech Final Year Project, PCCoE
 
 🔗 **Repository:** *(Will be added after implementation)*
 
@@ -268,7 +273,7 @@ An AI-based healthcare application that detects specific skin diseases from uplo
 # 🎯 2026 Goals
 
 - ✅ Publish a Research Paper
-- ✅ Build an AI Skin Disease Detection System
+- ✅ Complete Final Year Project: Sarcasm-Aware Sentiment Analysis for YouTube Comments
 - ✅ Contribute to Open Source
 - ✅ Secure an AI Internship
 
