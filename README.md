@@ -74,6 +74,8 @@ To become an AI Engineer who builds intelligent solutions with real-world impact
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ## 📊 Data Analytics
 
@@ -84,6 +86,7 @@ To become an AI Engineer who builds intelligent solutions with real-world impact
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
 
 ## 🗄 Database
@@ -100,6 +103,37 @@ To become an AI Engineer who builds intelligent solutions with real-world impact
 ---
 
 # 🚀 Featured Projects
+
+## 📈 Financial News Sentiment Analysis
+
+📌 **Overview**
+
+A full-stack NLP application that analyzes financial news headlines using **FinBERT** and classifies them as Positive, Negative, or Neutral, providing confidence scores and an indicative interpretation of possible stock-market movement.
+
+### ✨ Key Features
+
+- 📰 Financial News Sentiment Classification using FinBERT
+- 🎯 Prediction Confidence Score
+- 📈 Indicative Stock Movement (Up / Down / Stable)
+- ⚡ Live Financial News Fetching via RSS Feeds
+- 📊 Sentiment vs Stock Returns Correlation Analysis
+- 🌐 Interactive Full-Stack Web Application
+
+### 🛠 Tech Stack
+
+- Frontend: React.js, Vite
+- Backend: FastAPI, Uvicorn
+- ML/NLP: FinBERT, Hugging Face Transformers, PyTorch
+- Data: Pandas, NumPy, yfinance, Feedparser
+
+### 📊 Results
+
+- Final Model Accuracy: **88.33%** (FinBERT, best among Logistic Regression, Naive Bayes, SVM, Tuned SVM, and RoBERTa)
+- Sentiment vs Stock Returns Correlation: **-0.21** (weak relationship)
+
+🔗 **Repository:** [Financial-news-sentiment-analysis](https://github.com/shrutijadhav2809/Financial-news-sentiment-analysis)
+
+---
 
 ## 🚗 Parking Management System
 
@@ -123,7 +157,7 @@ A full-stack web application that streamlines parking slot management by allowin
 - Database: MySQL
 - Authentication: JWT
 
-🔗 **Repository:** *(https://github.com/shrutijadhav2809/Parking-Management-System-using-Spring-Boot)*
+🔗 **Repository:** [Parking-Management-System-using-Spring-Boot](https://github.com/shrutijadhav2809/Parking-Management-System-using-Spring-Boot)
 
 ---
 
@@ -149,7 +183,7 @@ An AI-powered recommendation system that analyzes user skin concerns and suggest
 - Scikit-Learn
 - Matplotlib
 
-🔗 **Repository:** *(https://github.com/shrutijadhav2809/Personalized-Skincare-and-Cosmetics-Recommendation-System)*
+🔗 **Repository:** [Personalized-Skincare-and-Cosmetics-Recommendation-System](https://github.com/shrutijadhav2809/Personalized-Skincare-and-Cosmetics-Recommendation-System)
 
 ---
 
@@ -214,22 +248,6 @@ An AI-based healthcare application that detects specific skin diseases from uplo
 
 ---
 
-### 📊 Data Analytics Dashboard
-
-- Power BI
-- Tableau
-- SQL
-- Python
-
----
-
-### 🤖 AI Skin Disease Detection *(Currently Building)*
-
-- Deep Learning
-- Computer Vision
-
----
-
 # 📜 Certifications
 
 - 🏅 Deloitte Data Analytics Job Simulation
@@ -243,7 +261,7 @@ An AI-based healthcare application that detects specific skin diseases from uplo
 - Deep Learning
 - Computer Vision
 - Large Language Models (LLMs)
-- Prompt Engineering 
+- Prompt Engineering
 
 ---
 
@@ -261,8 +279,6 @@ An AI-based healthcare application that detects specific skin diseases from uplo
 > **"Turning ideas into intelligent solutions through AI and data."**
 
 ---
-
-<div align="center">
 
 <div align="center">
 
