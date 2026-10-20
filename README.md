@@ -210,7 +210,96 @@ A business intelligence dashboard developed to analyze datasets and present mean
 - Excel
 
 ---
+🚦 TrafficFlow — Smart Traffic Analytics Using Big Data
 
+<p>
+<a href="https://github.com/shrutijadhav2809/Smart-Traffic-Analytics-Big-Data">
+<img src="https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
+</p>
+
+📌 Overview
+
+TrafficFlow is a Big Data analytics project that analyzes traffic patterns, congestion levels, vehicle counts, and incident records across five cities in Maharashtra, India. It combines data processing frameworks with an interactive dashboard to transform traffic records into meaningful analytical insights.
+
+✨ Key Features
+
+🚦 City-wise traffic volume analysis
+
+🏙️ Interactive exploration of traffic patterns across Maharashtra
+
+📊 Congestion-level and vehicle-category analysis
+
+🚗 Vehicle count and traffic trend visualizations
+
+🛡️ Incident and road-safety analytics
+
+🧹 Dataset profiling and data-quality validation
+
+⚡ Data processing using Python, Pandas, Apache Spark, and Hadoop MapReduce
+
+🗂️ HDFS integration for distributed file storage
+
+📈 Interactive dashboard with charts, filters, and data exploration
+
+📥 Downloadable analytical results and verification reports
+
+🛠 Tech Stack
+
+Programming: Python, Java
+
+Data Analysis: Pandas, NumPy
+
+Big Data: Apache Hadoop, HDFS, Hadoop MapReduce, Apache Spark, PySpark
+
+Dashboard: Streamlit, Plotly, Folium
+
+Data Format: CSV
+
+Version Control: Git, GitHub
+
+📊 Implementation & Verification
+
+Analyzed 1,200 traffic records across five Maharashtra cities.
+
+Implemented city-wise aggregation using Python/Pandas, Apache Spark, and Hadoop MapReduce.
+
+Compared city-wise totals between Pandas and Spark.
+
+Compared vehicle-category totals between Pandas and Spark.
+
+Compared city-wise totals between Pandas and Hadoop MapReduce.
+
+All three configured cross-framework verification checks passed.
+
+🖥️ Dashboard Screenshots
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/shrutijadhav2809/Smart-Traffic-Analytics-Big-Data/main/ss/overview.png" alt="TrafficFlow dashboard overview" width="800"/>
+<br/>
+<em>TrafficFlow interactive analytics dashboard</em>
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/shrutijadhav2809/Smart-Traffic-Analytics-Big-Data/main/ss/d4.png" alt="TrafficFlow Maharashtra traffic map" width="800"/>
+<br/>
+<em>City-level traffic visualization across Maharashtra</em>
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/shrutijadhav2809/Smart-Traffic-Analytics-Big-Data/main/ss/d3.png" alt="TrafficFlow congestion analytics" width="800"/>
+<br/>
+<em>Traffic congestion analysis</em>
+</p>
+
+🔗 Repository: Smart-Traffic-Analytics-Big-Data
+
+📌 Project Type: Big Data Analytics Lab Mini-Project
+
+Note: The project analyzes the included dataset; its dashboard does not represent a live traffic monitoring feed.
 ## 🎭 Sarcasm-Aware Sentiment Analysis for YouTube Comments *(Final Year Project – In Progress)*
 
 📌 **Overview**
