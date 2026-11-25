@@ -1,97 +1,121 @@
-# Hi there, I'm Shruti Jadhav! 👋
 
-### 💻 B.Tech Information Technology Student | Data Analytics & Data Science Enthusiast
+<div align="center">
 
-I'm an Information Technology undergraduate at **Pimpri Chinchwad College of Engineering (PCCOE), Pune**, passionate about exploring data, building practical applications, and learning new technologies.
+# SHRUTI JADHAV
 
-I enjoy working with Python, SQL, data visualization, and machine learning. I'm always excited to learn, collaborate, and turn ideas into meaningful projects.
+### `Information Technology Student` · `Data & AI Enthusiast`
 
----
+*Turning curiosity into code, and data into insights.*
 
-### 🚀 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shruti-jadhav-1365322ba)
+[![GitHub](https://img.shields.io/badge/GitHub-Explore-181717?style=flat-square&logo=github)](https://github.com/shrutijadhav2809)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shruti.jadhav.0298@gmail.com)
 
-- 🎓 Pursuing B.Tech in Information Technology (2023–2027).
-- 📊 Interested in Data Analytics, Data Science, and Machine Learning.
-- 🐍 Enjoy working with Python, SQL, and data-driven projects.
-- 💼 Completed internships in Data Analytics, Data Science, and Python Programming.
-- 🌱 Currently exploring Machine Learning, Deep Learning, and Big Data technologies.
-- 🤝 Open to learning opportunities, internships, and collaborations.
+</div>
 
 ---
 
-### 🛠️ Technical Skills
+### 01 / A little about me
 
-**Programming Languages**
+Hey! I'm Shruti, an Information Technology undergraduate at **PCCOE, Pune** (2023–2027).
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+I'm interested in the intersection of data, technology, and problem-solving. I enjoy exploring datasets, experimenting with machine learning, and building applications that solve practical problems.
 
-**Data Analytics & Machine Learning**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-
-**Web Development & Tools**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+- Currently exploring **Data Science, Machine Learning & AI**
+- Interested in **Data Analytics, NLP & Big Data**
+- Building projects that help me learn by doing
+- Always curious about what's next in technology
 
 ---
 
-### 📌 Featured Projects
+### 02 / My tech stack
 
-| Project | Description | Technologies |
-|---|---|---|
-| [Airbnb Big Data Analytics](https://github.com/shrutijadhav2809/Airbnb-Big-Data-Analytics) | Big data analytics project using Airbnb data. | Big Data, Analytics |
-| [Smart Traffic Analytics](https://github.com/shrutijadhav2809/Smart-Traffic-Analytics-Big-Data) | Traffic analytics project focused on data-driven insights. | Big Data, Analytics |
-| [Financial News Sentiment Analysis](https://github.com/shrutijadhav2809/Financial-news-sentiment-analysis) | Analyzing financial news sentiment and its relationship with stock market movements. | Python, NLP, FinBERT |
-| [Clock Synchronization](https://github.com/shrutijadhav2809/Clock-Synchronization-Mini-Project) | Mini project exploring clock synchronization in distributed systems. | Distributed Systems |
-| Sarcasm-Aware Sentiment Analysis | Final-year project to detect sarcasm and classify sentiment in YouTube comments. | Python, NLP, ML, DL |
-| Personalized Skincare Recommendation | Recommends skincare products based on user preferences and skin characteristics. | Python, Scikit-learn |
-| Parking Management System | Web-based parking management application with booking and billing features. | React.js, Spring Boot, MySQL |
-
----
-
-### 💼 Internship Experience
-
-- **Data Analyst Intern** – Infyntrek Systèmes
-- **Data Science Intern** – Uptricks Services Pvt. Ltd.
-- **Python Programming Intern** – CodSoft
+| Area | Technologies |
+|:---|:---|
+| Languages | Python, SQL, Java, C++ |
+| Data Analysis | Pandas, NumPy, Matplotlib, Excel |
+| Machine Learning | Scikit-learn, NLP, FinBERT |
+| Visualization | Power BI, Tableau |
+| Development | React.js, Spring Boot, MySQL |
+| Tools | Git, GitHub, VS Code, Jupyter Notebook |
 
 ---
 
-### 📜 Certifications & Programs
+### 03 / Selected work
 
-- Wipro TalentNext – Data Science with Python
-- Deloitte Australia – Data Analytics Virtual Job Simulation (Forage)
+A few things I've been learning and building.
+
+**01 — Financial News Sentiment Analysis**
+
+NLP-based analysis of financial news sentiment and its relationship with stock market movements.
+
+`Python` `NLP` `FinBERT`
+
+[View Repository ↗](https://github.com/shrutijadhav2809/Financial-news-sentiment-analysis)
+
+**02 — Airbnb Big Data Analytics**
+
+A data analytics project exploring Airbnb-related datasets.
+
+`Big Data` `Data Analytics`
+
+[View Repository ↗](https://github.com/shrutijadhav2809/Airbnb-Big-Data-Analytics)
+
+**03 — Smart Traffic Analytics**
+
+A project exploring traffic-related data through a big data analytics approach.
+
+`Big Data` `Analytics`
+
+[View Repository ↗](https://github.com/shrutijadhav2809/Smart-Traffic-Analytics-Big-Data)
+
+**04 — Clock Synchronization**
+
+A mini project based on clock synchronization concepts in distributed systems.
+
+`Distributed Systems`
+
+[View Repository ↗](https://github.com/shrutijadhav2809/Clock-Synchronization-Mini-Project)
+
+**05 — Sarcasm-Aware Sentiment Analysis**
+
+My final-year project: detecting sarcasm before classifying the sentiment of YouTube comments.
+
+`Python` `NLP` `Machine Learning` `Deep Learning`
+
+**06 — Personalized Skincare Recommendation System**
+
+A recommendation system that uses user preferences and product characteristics to suggest skincare products.
+
+`Python` `Pandas` `Scikit-learn`
+
+---
+
+### 04 / Experience & learning
+
+- **Infyntrek Systèmes** — Data Analyst Intern
+- **Uptricks Services Pvt. Ltd.** — Data Science Intern
+- **CodSoft** — Python Programming Intern
+
+**Certifications & Programs**
+
+- Wipro TalentNext — Data Science with Python
+- Deloitte Australia — Data Analytics Virtual Experience (Forage)
 - Cognizant Virtual Experience Program (Forage)
-- Python Programming – Udemy
+- Python Programming — Udemy
 
 ---
 
-### 🌐 Connect With Me
+### 05 / Beyond the code
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shruti-jadhav-1365322ba)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/shrutijadhav2809)
+I believe growth comes from staying curious, trying new things, and being willing to start from zero.
 
-📧 **Email:** shruti.jadhav.0298@gmail.com
+When I'm not coding, I'm probably exploring something creative, learning something new, or planning my next project.
 
----
+<div align="center">
 
-### ✨ A Little More About Me
+### LET'S BUILD SOMETHING INTERESTING.
 
-I believe in continuous learning, building projects, and improving a little every day.
+*One idea. One project. One step forward.*
 
-**"Learning, building, and growing — one project at a time."** 🚀
-
-Thanks for visiting my profile! 😊
+</div>
