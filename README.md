@@ -1,383 +1,97 @@
-<div align="center">
+# Hi there, I'm Shruti Jadhav! 👋
 
-# Hi 👋, I'm Shruti Jadhav
+### 💻 B.Tech Information Technology Student | Data Analytics & Data Science Enthusiast
 
-### 🎓 B.Tech Information Technology Student
+I'm an Information Technology undergraduate at **Pimpri Chinchwad College of Engineering (PCCOE), Pune**, passionate about exploring data, building practical applications, and learning new technologies.
 
-### 🤖 AI & Machine Learning Enthusiast • 📊 Data Analytics • 💻 Python Developer
-
-<p>
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Enthusiast;Data+Analytics+Explorer;Python+Developer;Always+Learning+New+Technologies" />
-</p>
-
-<p>
-<a href="https://www.linkedin.com/in/shruti-jadhav-1365322ba">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:shrutijadhav.0928@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/shrutijadhav2809">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
-</div>
+I enjoy working with Python, SQL, data visualization, and machine learning. I'm always excited to learn, collaborate, and turn ideas into meaningful projects.
 
 ---
 
-# 👩‍💻 About Me
+### 🚀 About Me
 
-🎓 B.Tech Information Technology Student at **Pimpri Chinchwad College of Engineering (PCCOE), Pune**
-
-🤖 Passionate about **Artificial Intelligence, Machine Learning, Data Analytics, and Software Development**
-
-💡 I enjoy building AI-powered solutions for real-world problems.
-
-🌱 **Currently Learning**
-
-- Deep Learning
-- Computer Vision
-- Generative AI
-- MLOps
-
-🎯 **Career Goal**
-
-To become an AI Engineer who builds intelligent solutions with real-world impact.
+- 🎓 Pursuing B.Tech in Information Technology (2023–2027).
+- 📊 Interested in Data Analytics, Data Science, and Machine Learning.
+- 🐍 Enjoy working with Python, SQL, and data-driven projects.
+- 💼 Completed internships in Data Analytics, Data Science, and Python Programming.
+- 🌱 Currently exploring Machine Learning, Deep Learning, and Big Data technologies.
+- 🤝 Open to learning opportunities, internships, and collaborations.
 
 ---
 
-# 💼 Experience
+### 🛠️ Technical Skills
 
-📊 **Data Analyst Intern** — Infyntrek Systems
-
-🐍 **Python Programming Intern** — CodSoft
-
-🤖 **Data Science Intern** — Uptricks Services
-
----
-
-# 🛠 Tech Stack
-
-## 💻 Programming Languages
+**Programming Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-## 🤖 AI & Machine Learning
+**Data Analytics & Machine Learning**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-## 📊 Data Analytics
-
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
-## 🌐 Web Development
+**Web Development & Tools**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
-
-## 🗄 Database
-
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-## ⚙️ Tools
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-# 🚀 Featured Projects
+### 📌 Featured Projects
 
-## 📈 Financial News Sentiment Analysis
-
-📌 **Overview**
-
-A full-stack NLP application that analyzes financial news headlines using **FinBERT** and classifies them as Positive, Negative, or Neutral, providing confidence scores and an indicative interpretation of possible stock-market movement.
-
-### ✨ Key Features
-
-- 📰 Financial News Sentiment Classification using FinBERT
-- 🎯 Prediction Confidence Score
-- 📈 Indicative Stock Movement (Up / Down / Stable)
-- ⚡ Live Financial News Fetching via RSS Feeds
-- 📊 Sentiment vs Stock Returns Correlation Analysis
-- 🌐 Interactive Full-Stack Web Application
-
-### 🛠 Tech Stack
-
-- Frontend: React.js, Vite
-- Backend: FastAPI, Uvicorn
-- ML/NLP: FinBERT, Hugging Face Transformers, PyTorch
-- Data: Pandas, NumPy, yfinance, Feedparser
-
-### 📊 Results
-
-- Final Model Accuracy: **88.33%** (FinBERT, best among Logistic Regression, Naive Bayes, SVM, Tuned SVM, and RoBERTa)
-- Sentiment vs Stock Returns Correlation: **-0.21** (weak relationship)
-
-🔗 **Repository:** [Financial-news-sentiment-analysis](https://github.com/shrutijadhav2809/Financial-news-sentiment-analysis)
+| Project | Description | Technologies |
+|---|---|---|
+| [Airbnb Big Data Analytics](https://github.com/shrutijadhav2809/Airbnb-Big-Data-Analytics) | Big data analytics project using Airbnb data. | Big Data, Analytics |
+| [Smart Traffic Analytics](https://github.com/shrutijadhav2809/Smart-Traffic-Analytics-Big-Data) | Traffic analytics project focused on data-driven insights. | Big Data, Analytics |
+| [Financial News Sentiment Analysis](https://github.com/shrutijadhav2809/Financial-news-sentiment-analysis) | Analyzing financial news sentiment and its relationship with stock market movements. | Python, NLP, FinBERT |
+| [Clock Synchronization](https://github.com/shrutijadhav2809/Clock-Synchronization-Mini-Project) | Mini project exploring clock synchronization in distributed systems. | Distributed Systems |
+| Sarcasm-Aware Sentiment Analysis | Final-year project to detect sarcasm and classify sentiment in YouTube comments. | Python, NLP, ML, DL |
+| Personalized Skincare Recommendation | Recommends skincare products based on user preferences and skin characteristics. | Python, Scikit-learn |
+| Parking Management System | Web-based parking management application with booking and billing features. | React.js, Spring Boot, MySQL |
 
 ---
 
-## 🚗 Parking Management System
+### 💼 Internship Experience
 
-📌 **Overview**
-
-A full-stack web application that streamlines parking slot management by allowing users to book available parking spaces online while enabling administrators to monitor and manage the parking facility efficiently.
-
-### ✨ Key Features
-
-- 🔐 Secure JWT-based Authentication
-- 🚗 Real-time Parking Slot Booking
-- 💳 Automated Billing System
-- 👨‍💼 Admin Dashboard for Slot Management
-- 📊 Booking History & User Management
-- 📱 Responsive User Interface
-
-### 🛠 Tech Stack
-
-- Frontend: React.js
-- Backend: Spring Boot
-- Database: MySQL
-- Authentication: JWT
-
-🔗 **Repository:** [Parking-Management-System-using-Spring-Boot](https://github.com/shrutijadhav2809/Parking-Management-System-using-Spring-Boot)
+- **Data Analyst Intern** – Infyntrek Systèmes
+- **Data Science Intern** – Uptricks Services Pvt. Ltd.
+- **Python Programming Intern** – CodSoft
 
 ---
 
-## 💄 Personalized Skincare Recommendation System
+### 📜 Certifications & Programs
 
-📌 **Overview**
-
-An AI-powered recommendation system that analyzes user skin concerns and suggests suitable skincare products using machine learning techniques.
-
-### ✨ Key Features
-
-- 🤖 Machine Learning-based Recommendations
-- 🧴 Personalized Product Suggestions
-- 📊 Data Preprocessing & Feature Engineering
-- 📈 Model Evaluation & Prediction
-- 💻 Interactive User Interface
-
-### 🛠 Tech Stack
-
-- Python
-- Pandas
-- NumPy
-- Scikit-Learn
-- Matplotlib
-
-🔗 **Repository:** [Personalized-Skincare-and-Cosmetics-Recommendation-System](https://github.com/shrutijadhav2809/Personalized-Skincare-and-Cosmetics-Recommendation-System)
+- Wipro TalentNext – Data Science with Python
+- Deloitte Australia – Data Analytics Virtual Job Simulation (Forage)
+- Cognizant Virtual Experience Program (Forage)
+- Python Programming – Udemy
 
 ---
 
-## 📊 Data Analytics Dashboard
+### 🌐 Connect With Me
 
-📌 **Overview**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shruti-jadhav-1365322ba)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/shrutijadhav2809)
 
-A business intelligence dashboard developed to analyze datasets and present meaningful insights using interactive visualizations.
-
-### ✨ Key Features
-
-- 📈 Interactive Dashboards
-- 📊 Data Cleaning & Transformation
-- 📉 Trend & KPI Analysis
-- 📋 Dynamic Reports
-- 📌 Business Insights
-
-### 🛠 Tech Stack
-
-- Power BI
-- Tableau
-- SQL
-- Python
-- Excel
-
----
-🚦 TrafficFlow — Smart Traffic Analytics Using Big Data
-
-<p>
-<a href="https://github.com/shrutijadhav2809/Smart-Traffic-Analytics-Big-Data">
-<img src="https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
-</p>
-
-📌 Overview
-
-TrafficFlow is a Big Data analytics project that analyzes traffic patterns, congestion levels, vehicle counts, and incident records across five cities in Maharashtra, India. It combines data processing frameworks with an interactive dashboard to transform traffic records into meaningful analytical insights.
-
-✨ Key Features
-
-🚦 City-wise traffic volume analysis
-
-🏙️ Interactive exploration of traffic patterns across Maharashtra
-
-📊 Congestion-level and vehicle-category analysis
-
-🚗 Vehicle count and traffic trend visualizations
-
-🛡️ Incident and road-safety analytics
-
-🧹 Dataset profiling and data-quality validation
-
-⚡ Data processing using Python, Pandas, Apache Spark, and Hadoop MapReduce
-
-🗂️ HDFS integration for distributed file storage
-
-📈 Interactive dashboard with charts, filters, and data exploration
-
-📥 Downloadable analytical results and verification reports
-
-🛠 Tech Stack
-
-Programming: Python, Java
-
-Data Analysis: Pandas, NumPy
-
-Big Data: Apache Hadoop, HDFS, Hadoop MapReduce, Apache Spark, PySpark
-
-Dashboard: Streamlit, Plotly, Folium
-
-Data Format: CSV
-
-Version Control: Git, GitHub
-
-📊 Implementation & Verification
-
-Analyzed 1,200 traffic records across five Maharashtra cities.
-
-Implemented city-wise aggregation using Python/Pandas, Apache Spark, and Hadoop MapReduce.
-
-Compared city-wise totals between Pandas and Spark.
-
-Compared vehicle-category totals between Pandas and Spark.
-
-Compared city-wise totals between Pandas and Hadoop MapReduce.
-
-All three configured cross-framework verification checks passed.
-
-🖥️ Dashboard Screenshots
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/shrutijadhav2809/Smart-Traffic-Analytics-Big-Data/main/ss/overview.png" alt="TrafficFlow dashboard overview" width="800"/>
-<br/>
-<em>TrafficFlow interactive analytics dashboard</em>
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/shrutijadhav2809/Smart-Traffic-Analytics-Big-Data/main/ss/d4.png" alt="TrafficFlow Maharashtra traffic map" width="800"/>
-<br/>
-<em>City-level traffic visualization across Maharashtra</em>
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/shrutijadhav2809/Smart-Traffic-Analytics-Big-Data/main/ss/d3.png" alt="TrafficFlow congestion analytics" width="800"/>
-<br/>
-<em>Traffic congestion analysis</em>
-</p>
-
-🔗 Repository: Smart-Traffic-Analytics-Big-Data
-
-📌 Project Type: Big Data Analytics Lab Mini-Project
-
-Note: The project analyzes the included dataset; its dashboard does not represent a live traffic monitoring feed.
-## 🎭 Sarcasm-Aware Sentiment Analysis for YouTube Comments *(Final Year Project – In Progress)*
-
-📌 **Overview**
-
-An intelligent, explainable NLP system that detects sarcasm before performing sentiment analysis on YouTube comments. Traditional sentiment analysis models often misclassify sarcastic text since sarcastic statements usually express the opposite of their literal meaning — this project addresses that gap by combining sarcasm detection, sentiment classification, and Explainable AI (SHAP & LIME) to improve accuracy and prediction transparency. The project also compares Machine Learning and Deep Learning approaches to identify the best-performing methodology.
-
-### ✨ Planned Features
-
-- 🎭 Sarcasm Detection prior to Sentiment Classification
-- 😊 Sentiment Analysis (Positive / Negative / Neutral)
-- 🔍 Explainable AI Predictions using SHAP & LIME
-- 📺 YouTube URL Input via YouTube Data API
-- ⌨️ Manual Text Input Support
-- 📊 Interactive Dashboard with Visualizations
-- 📄 PDF/CSV Report Generation
-- 🔬 ML vs DL Model Comparison
-
-### 🛠 Proposed Tech Stack
-
-- Frontend: HTML, CSS, Bootstrap, JavaScript
-- Backend: Flask
-- Database: SQLite
-- Machine Learning: Scikit-learn (Logistic Regression, Naive Bayes, SVM, Random Forest)
-- Deep Learning: TensorFlow / PyTorch (LSTM, GRU, DistilBERT)
-- NLP: Hugging Face Transformers
-- Explainable AI: SHAP, LIME
-- API: YouTube Data API v3
-- Visualization: Chart.js
-
-### 📌 Research Focus
-
-- Sarcasm-Aware Sentiment Analysis
-- Explainable Artificial Intelligence (XAI)
-- Machine Learning vs Deep Learning Model Comparison
-- Natural Language Processing
-
-🚧 **Project Status:** Under Development (AY 2026-27) — B.Tech Final Year Project, PCCoE
-
-🔗 **Repository:** *(Will be added after implementation)*
+📧 **Email:** shruti.jadhav.0298@gmail.com
 
 ---
 
-# 📜 Certifications
+### ✨ A Little More About Me
 
-- 🏅 Deloitte Data Analytics Job Simulation
-- 🏅 Cognizant Virtual Experience Program
-- 🏅 Python Programming Certification
+I believe in continuous learning, building projects, and improving a little every day.
 
----
+**"Learning, building, and growing — one project at a time."** 🚀
 
-# 🌱 Currently Learning
-
-- Deep Learning
-- Computer Vision
-- Large Language Models (LLMs)
-- Prompt Engineering
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Publish a Research Paper
-- ✅ Complete Final Year Project: Sarcasm-Aware Sentiment Analysis for YouTube Comments
-- ✅ Contribute to Open Source
-- ✅ Secure an AI Internship
-
----
-
-# 💬 Quote
-
-> **"Turning ideas into intelligent solutions through AI and data."**
-
----
-
-<div align="center">
-
-⭐ Thanks for visiting my profile!
-
-If you like my work, feel free to connect with me on LinkedIn.
-
-</div>
+Thanks for visiting my profile! 😊
