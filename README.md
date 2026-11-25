@@ -147,9 +147,7 @@ A recommendation system for skincare products based on user preferences.
 ## 🐍 Watch My Contributions Travel!
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/shrutijadhav2809/shrutijadhav2809/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
-
+  <img src="https://raw.githubusercontent.com/shrutijadhav2809/shrutijadhav2809/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
 </div>
 
 ---
