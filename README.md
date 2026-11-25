@@ -1,121 +1,182 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,12,20,24,30&text=Hey%20There!%20I'm%20Shruti%20💜&fontSize=38&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Welcome%20to%20my%20creative%20tech%20space!&descAlignY=58&descSize=17)
 
 <div align="center">
 
-# SHRUTI JADHAV
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=DA70D6&center=true&vCenter=true&width=650&lines=Information+Technology+Student+%F0%9F%8E%93;Data+Analytics+Enthusiast+%F0%9F%93%8A;Python+%26+Machine+Learning+Lover+%F0%9F%90%8D;Turning+Ideas+Into+Projects+%E2%9C%A8" />
 
-### `Information Technology Student` · `Data & AI Enthusiast`
+<br/>
 
-*Turning curiosity into code, and data into insights.*
+<img src="https://komarev.com/ghpvc/?username=shrutijadhav2809&label=PROFILE+VISITORS&color=blueviolet&style=for-the-badge" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shruti-jadhav-1365322ba)
-[![GitHub](https://img.shields.io/badge/GitHub-Explore-181717?style=flat-square&logo=github)](https://github.com/shrutijadhav2809)
-[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shruti.jadhav.0298@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/shrutijadhav2809)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shruti-jadhav-1365322ba)
+[![Email](https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shruti.jadhav.0298@gmail.com)
 
 </div>
 
 ---
 
-### 01 / A little about me
+<img align="right" alt="Coding girl" width="270" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-Hey! I'm Shruti, an Information Technology undergraduate at **PCCOE, Pune** (2023–2027).
+## 💜 About Me
 
-I'm interested in the intersection of data, technology, and problem-solving. I enjoy exploring datasets, experimenting with machine learning, and building applications that solve practical problems.
+Hey! I'm **Shruti Jadhav** ✨
 
-- Currently exploring **Data Science, Machine Learning & AI**
-- Interested in **Data Analytics, NLP & Big Data**
-- Building projects that help me learn by doing
-- Always curious about what's next in technology
+🎓 B.Tech Information Technology student at PCCOE, Pune.
 
----
+💻 Passionate about technology, data, and creative problem-solving.
 
-### 02 / My tech stack
+📊 Exploring the world of Data Analytics & Data Science.
 
-| Area | Technologies |
-|:---|:---|
-| Languages | Python, SQL, Java, C++ |
-| Data Analysis | Pandas, NumPy, Matplotlib, Excel |
-| Machine Learning | Scikit-learn, NLP, FinBERT |
-| Visualization | Power BI, Tableau |
-| Development | React.js, Spring Boot, MySQL |
-| Tools | Git, GitHub, VS Code, Jupyter Notebook |
+🐍 Python enthusiast who loves experimenting with code.
+
+🤖 Learning Machine Learning, Deep Learning & NLP.
+
+🌱 Growing through projects, challenges, and continuous learning.
+
+💫 *Dream big. Code smart. Stay curious.*
+
+<br clear="right"/>
 
 ---
 
-### 03 / Selected work
+## 🎨 My Tech Playground
 
-A few things I've been learning and building.
+### 💻 Programming Languages
 
-**01 — Financial News Sentiment Analysis**
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql&theme=dark" />
+</p>
 
-NLP-based analysis of financial news sentiment and its relationship with stock market movements.
+### 📊 Data Science & Analytics
 
-`Python` `NLP` `FinBERT`
+<p align="center">
+<img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pandas,matlab&theme=dark" />
+</p>
 
-[View Repository ↗](https://github.com/shrutijadhav2809/Financial-news-sentiment-analysis)
+### 🌐 Development & Tools
 
-**02 — Airbnb Big Data Analytics**
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,spring,mysql,html,css,git,github,vscode&theme=dark" />
+</p>
 
-A data analytics project exploring Airbnb-related datasets.
-
-`Big Data` `Data Analytics`
-
-[View Repository ↗](https://github.com/shrutijadhav2809/Airbnb-Big-Data-Analytics)
-
-**03 — Smart Traffic Analytics**
-
-A project exploring traffic-related data through a big data analytics approach.
-
-`Big Data` `Analytics`
-
-[View Repository ↗](https://github.com/shrutijadhav2809/Smart-Traffic-Analytics-Big-Data)
-
-**04 — Clock Synchronization**
-
-A mini project based on clock synchronization concepts in distributed systems.
-
-`Distributed Systems`
-
-[View Repository ↗](https://github.com/shrutijadhav2809/Clock-Synchronization-Mini-Project)
-
-**05 — Sarcasm-Aware Sentiment Analysis**
-
-My final-year project: detecting sarcasm before classifying the sentiment of YouTube comments.
-
-`Python` `NLP` `Machine Learning` `Deep Learning`
-
-**06 — Personalized Skincare Recommendation System**
-
-A recommendation system that uses user preferences and product characteristics to suggest skincare products.
-
-`Python` `Pandas` `Scikit-learn`
+**Also exploring:** Power BI · Tableau · Excel · NumPy · Matplotlib · Jupyter Notebook
 
 ---
 
-### 04 / Experience & learning
+## 🚀 Things I've Built
 
-- **Infyntrek Systèmes** — Data Analyst Intern
-- **Uptricks Services Pvt. Ltd.** — Data Science Intern
-- **CodSoft** — Python Programming Intern
+<table>
+<tr>
+<td width="50%">
+<h3>📈 Financial News Sentiment Analysis</h3>
+NLP-based financial news sentiment analysis using FinBERT.
 
-**Certifications & Programs**
+<a href="https://github.com/shrutijadhav2809/Financial-news-sentiment-analysis">🔗 Explore Project</a>
+</td>
+<td width="50%">
+<h3>🏡 Airbnb Big Data Analytics</h3>
+Exploring Airbnb datasets through big data analytics.
 
-- Wipro TalentNext — Data Science with Python
-- Deloitte Australia — Data Analytics Virtual Experience (Forage)
-- Cognizant Virtual Experience Program (Forage)
-- Python Programming — Udemy
+<a href="https://github.com/shrutijadhav2809/Airbnb-Big-Data-Analytics">🔗 Explore Project</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3>🚦 Smart Traffic Analytics</h3>
+A big data analytics project focused on traffic-related insights.
+
+<a href="https://github.com/shrutijadhav2809/Smart-Traffic-Analytics-Big-Data">🔗 Explore Project</a>
+</td>
+<td width="50%">
+<h3>⏰ Clock Synchronization</h3>
+A mini project exploring synchronization in distributed systems.
+
+<a href="https://github.com/shrutijadhav2809/Clock-Synchronization-Mini-Project">🔗 Explore Project</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3>🧠 Sarcasm-Aware Sentiment Analysis</h3>
+Final-year project detecting sarcasm before classifying YouTube comment sentiment.
+
+<sub>Python · NLP · ML · Deep Learning</sub>
+</td>
+<td width="50%">
+<h3>🧴 Personalized Skincare Recommendation</h3>
+A recommendation system for skincare products based on user preferences.
+
+<sub>Python · Pandas · Scikit-learn</sub>
+</td>
+</tr>
+</table>
 
 ---
 
-### 05 / Beyond the code
+## 💼 My Journey So Far
 
-I believe growth comes from staying curious, trying new things, and being willing to start from zero.
+🌟 **Infyntrek Systèmes** — Data Analyst Intern
 
-When I'm not coding, I'm probably exploring something creative, learning something new, or planning my next project.
+🌟 **Uptricks Services Pvt. Ltd.** — Data Science Intern
+
+🌟 **CodSoft** — Python Programming Intern
+
+### 🏆 Certifications & Learning
+
+- 🥇 Wipro TalentNext — Data Science with Python
+- 📊 Deloitte Australia — Data Analytics Virtual Experience
+- 💼 Cognizant Virtual Experience Program
+- 🐍 Python Programming — Udemy
+
+---
+
+## 📊 GitHub Universe
 
 <div align="center">
 
-### LET'S BUILD SOMETHING INTERESTING.
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shrutijadhav2809&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
 
-*One idea. One project. One step forward.*
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutijadhav2809&layout=compact&theme=radical&hide_border=true" />
+
+<img width="70%" src="https://streak-stats.demolab.com?user=shrutijadhav2809&theme=radical&hide_border=true" />
 
 </div>
+
+---
+
+## 🐍 Watch My Contributions Travel!
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/shrutijadhav2809/shrutijadhav2809/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
+
+</div>
+
+---
+
+## 💌 Let's Connect!
+
+<div align="center">
+
+💜 Have an interesting idea, project, or opportunity?
+
+Let's connect and create something amazing!
+
+<a href="https://www.linkedin.com/in/shruti-jadhav-1365322ba">
+<img src="https://img.shields.io/badge/LinkedIn-My%20Profile-ff69b4?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:shruti.jadhav.0298@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Say%20Hello-purple?style=for-the-badge&logo=gmail" />
+</a>
+
+<br/><br/>
+
+### ✨ "A little creativity, a lot of curiosity, and endless possibilities."
+
+**Thanks for visiting my little corner of GitHub! 💗**
+
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24,30&height=120&section=footer)
+
